@@ -27,6 +27,7 @@ gen
 build.xml
 ant.properties
 local.properties
+project.properties
 proguard-project.txt
 
 #Crashlytics
